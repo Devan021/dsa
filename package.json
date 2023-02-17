@@ -1,0 +1,19 @@
+{
+  "name": "dsa",
+  "version": "1.1.1",
+  "description": "DATA STRUCTURES AND ALGORITHMS ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devan021/dsa.git"
+  },
+  "author": "Devan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Devan021/dsa/issues"
+  },
+  "homepage": "https://github.com/Devan021/dsa#readme"
+}
